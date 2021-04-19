@@ -37,7 +37,7 @@ Block-level elements can be made into a link.
 </a>
 ```
 
-[![Google](https://cdn.worldvectorlogo.com/logos/google-icon.svg)](https://google.com)
+> [![Google](https://cdn.worldvectorlogo.com/logos/google-icon.svg)](https://google.com)
 
 ## URL/path primer
 
@@ -72,7 +72,7 @@ Use the fragment alone to link to a place on the current page.
 <p>Go <a href="#page_title">Home</a>
 ```
 
-__Example:__ [Top of this page](#hyperlinks)
+> [Top of this page](#hyperlinks)
 
 ## Absolute vs Relative URLs
 
@@ -80,13 +80,13 @@ __Example:__ [Top of this page](#hyperlinks)
 
 Points to a direct location on the web, including the protocol and domain name.
 
-Example: <https://www.google.com/index.html>
+> <https://www.google.com/index.html>
 
 ### Relative URL
 
 Points to a location relative to the file you're linking from
 
-Example: [../../../README.md](../../../README.md#web-development-notes)
+> [../../../README.md](../../../README.md#web-development-notes)
 
 ## Link Best Practices
 
@@ -111,6 +111,9 @@ Example: [../../../README.md](../../../README.md#web-development-notes)
 to download Firefox.
 </p>
 ```
+
+> [Download Firefox](https://firefox.com) </br>
+> [Click here](https://firefox.com) to download Firefox.
 
 Tips:
 
@@ -139,6 +142,8 @@ Good Examples:
 </a></p>
 ```
 
+> [Download sales report (PDF, 10MB)](https://example.com/large-report.pdf)
+
 ### Download attribute
 
 When linking to a download, use the `download` attribute to provide a default save
@@ -151,11 +156,18 @@ filename.
 </a>
 ```
 
+> <a href="https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US"
+   download="firefox-latest-64bit-installer.exe">
+  Download Latest Firefox for Windows (64-bit) (English, US)
+</a>
+
 ## Email Links
 
 ```html
 <a href="mailto:nowhere@example.com">Send email</a>
 ```
+
+> [Send email](mailto:nowhere@example.com)
 
 You can omit the email address for "share" links, so users can send an email
 to the address of their choosing.
@@ -169,4 +181,4 @@ characters where spaces, tabs, etc. are used. Use `&` to separate each field.
 <a href="mailto:mail@example.com?cc=name@example.com&bcc=name2@example.com&subject=Hello&body=World">Mail</a>
 ```
 
-Example: [Mail](mailto:mail@example.com?cc=name@example.com&bcc=name2@example.com&subject=Hello&body=World)
+> [Mail](mailto:mail@example.com?cc=name@example.com&bcc=name2@example.com&subject=Hello&body=World)
