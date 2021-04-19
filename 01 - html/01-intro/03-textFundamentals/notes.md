@@ -10,8 +10,7 @@ Each header needs to be wrapped in a heading element.
 <p>This is a paragraph.</p>
 ```
 
-There are six heading elements. Each element represents a 
-different level of content inthe document. `<h1>` is the main heading,
+There are six heading elements. Each element represents a different level of content in the document. `<h1>` is the main heading,
 `<h2>` is subheadings, `<h3>` is sub-subheading, etc.
 
 ## Why Structure is Necessary
