@@ -1,5 +1,7 @@
 # Getting Started
 
+__Lesson:__ [Click Here](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+
 ## Anatomy of an HTML element
 
 ```html

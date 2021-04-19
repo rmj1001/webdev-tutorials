@@ -1,5 +1,9 @@
 # What is the HTML head?
 
+__Lesson:__ [Click Here](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
+
+## Intro
+
 ```html
 <!-- Template -->
 

@@ -9,7 +9,7 @@ __Contents:__
     * [Getting Started](01%20-%20html/01-intro/01-gettingStarted/notes.md)
     * [What's in the head? Metadata in HTML](01%20-%20html/01-intro/02-htmlHead/notes.md)
     * [HTML text fundamentals](01%20-%20html/01-intro/03-textFundamentals/notes.md)
-    * Hyperlinks
+    * [Hyperlinks](01%20-%20html/01-intro/04-hyperlinks/notes.md)
     * Advanced text formatting
     * Document/website structure
     * Debugging

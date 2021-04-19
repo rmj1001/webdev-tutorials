@@ -1,5 +1,9 @@
 # HTML Text Fundamentals
 
+__Lesson:__ [Click Here](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
+
+## Intro
+
 Structured content makes reading easier and more enjoyable.
 
 In HTML, each paragraph needs to be wrapped in a `<p>` element.
