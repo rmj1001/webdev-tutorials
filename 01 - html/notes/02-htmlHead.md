@@ -73,7 +73,7 @@ Adding a favicon:
 2. Add the following line into your HTML's `<head>` block:
 
 ```html
-<link rel="shortut icon" hfref="name.ico" type="image/x-icon">
+<link rel="shortut icon" href="name.ico" type="image/x-icon">
 ```
 
 ## Applying CSS/Javascript to HTML
