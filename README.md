@@ -11,10 +11,8 @@ __Contents:__
     * [HTML text fundamentals](01%20-%20html/01-intro/03-textFundamentals/notes.md)
     * [Hyperlinks](01%20-%20html/01-intro/04-hyperlinks/notes.md)
     * [Advanced text formatting](01%20-%20html/01-intro/05-advancedFormatting/notes.md)
-    * Document/website structure
+    * [Document/website structure](01%20-%20html/01-intro/06-structure/notes.md)
     * Debugging
-    * Assessment: Making up a letter
-    * Assessment: Structuring a page of content
   * Multimedia/embedding
     * Overview
     * Images in HTML
@@ -22,12 +20,10 @@ __Contents:__
     * From object to iframe — other embedding technologies
     * Adding vector graphics to the Web
     * Responsive images
-    * Assessment: Mozilla splash page
   * HTML Tables
     * Overview
     * Basics
     * Advanced features/accessibility
-    * Assessment: Structuring planet data
 * CSS
 * JavaScript
 
