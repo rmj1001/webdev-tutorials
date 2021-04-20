@@ -12,7 +12,7 @@ __Contents:__
     * [Hyperlinks](01%20-%20html/01-intro/04-hyperlinks/notes.md)
     * [Advanced text formatting](01%20-%20html/01-intro/05-advancedFormatting/notes.md)
     * [Document/website structure](01%20-%20html/01-intro/06-structure/notes.md)
-    * Debugging
+    * [Debugging](01%20-%20html/01-intro/07-debugging/%20notes.md)
   * Multimedia/embedding
     * Overview
     * Images in HTML
