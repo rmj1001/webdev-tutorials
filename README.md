@@ -10,7 +10,7 @@ __Contents:__
     * [What's in the head? Metadata in HTML](01%20-%20html/01-intro/02-htmlHead/notes.md)
     * [HTML text fundamentals](01%20-%20html/01-intro/03-textFundamentals/notes.md)
     * [Hyperlinks](01%20-%20html/01-intro/04-hyperlinks/notes.md)
-    * Advanced text formatting
+    * [Advanced text formatting](01%20-%20html/01-intro/05-advancedFormatting/notes.md)
     * Document/website structure
     * Debugging
     * Assessment: Making up a letter
