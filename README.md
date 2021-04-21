@@ -17,7 +17,7 @@ __Contents:__
     * [Images in HTML](01%20-%20html/02-multimedia/01-images/notes.md)
     * [Video and audio content](01%20-%20html/02-multimedia/02-videoAudioContent/notes.md)
     * [From object to iframe — other embedding technologies](01%20-%20html/02-multimedia/03-objectsiframe/notes.md)
-    * Adding vector graphics to the Web
+    * [Adding vector graphics to the Web](01%20-%20html/02-multimedia/04-vectorGraphics/notes.md)
     * Responsive images
   * HTML Tables
     * Overview
