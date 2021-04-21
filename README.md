@@ -14,9 +14,8 @@ __Contents:__
     * [Document/website structure](01%20-%20html/01-intro/06-structure/notes.md)
     * [Debugging](01%20-%20html/01-intro/07-debugging/%20notes.md)
   * Multimedia/embedding
-    * Overview
-    * Images in HTML
-    * Video and audio content
+    * [Images in HTML](01%20-%20html/02-multimedia/01-images/notes.md)
+    * [Video and audio content](01%20-%20html/02-multimedia/02-videoAudioContent/notes.md)
     * From object to iframe — other embedding technologies
     * Adding vector graphics to the Web
     * Responsive images
